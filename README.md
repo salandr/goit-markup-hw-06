@@ -1,1 +1,1 @@
-# My first Flexbox HW
+# Adaptation Project (Mobile-Tablet-Desktop)
